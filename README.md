@@ -21,6 +21,6 @@ Buatlah simple project company profile menggunakan Laravel dengan ketentuan seba
 
 - Buatlah 1 repository baru dan commit secara berkala.
 - Buatlah unit test untuk masing-masing service.
-- Buatlah integration test untuk masing-masing service.
+- Buatlah integration test untuk masing-masing endpoint.
 
 
